@@ -16,7 +16,7 @@ public class SparrohPlugin : BaseUnityPlugin
 {
     public const string PluginGUID = "sparroh.salvomacro";
     public const string PluginName = "SalvoMacro";
-    public const string PluginVersion = "1.1.0";
+    public const string PluginVersion = "1.2.0";
 
     internal static new ManualLogSource Logger;
 

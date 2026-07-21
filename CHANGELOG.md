@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.0
+## 1.2.0
 
 ### Features
 * Initial release (split from EnhancedCooldowns)
